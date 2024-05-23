@@ -20,5 +20,10 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
+        // chiamare tutti i seeder nell'array usando il comando php artisan db:seed
+        // $this->call([
+        //     HousesTableSeeder::class,
+
+        // ])
     }
 }

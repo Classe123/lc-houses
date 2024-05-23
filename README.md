@@ -12,7 +12,7 @@
 ```bash
 cd your parent_folder_path
 
-composer create-project --prefer-dist laravel/laravel:^9.2 your_project_name_here
+composer create-project --prefer-dist laravel/laravel:^10.0 your_project_name_here
 
 cd your_project_name_here
 
@@ -39,7 +39,7 @@ npm install --save @fortawesome/fontawesome-free
 #copio la cartella dei webfont e se voglio la rinomino
 
 #installo dbal per migration e seeder
-composer require doctrine/dbal:^3.3
+composer require doctrine/dbal
 
 
 #comandi git
@@ -97,3 +97,4 @@ php artisan make:controller NomeController
 # creo le views relative
 
 ```
+

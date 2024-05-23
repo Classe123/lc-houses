@@ -1,0 +1,27 @@
+ [
+    {
+        "address" : "Via Roma, 1",
+        "city" : "Roma",
+        "state" : "Italy",
+        "description" : "House in the city center",
+        "price" : 1500.00,
+        "square_meters" : 100
+    },
+    {
+        "address" : "Via Pescara, 1",
+        "city" : "Pescara",
+        "state" : "Italy",
+        "description" : "House in the city center",
+        "price" : 1500.00,
+        "square_meters" : 100
+    },
+    {
+        "address" : "Via Firenze, 1",
+        "city" : "Firenze",
+        "state" : "Italy",
+        "description" : "House in the city center",
+        "price" : 1500.00,
+        "square_meters" : 10
+
+    }
+ ]
